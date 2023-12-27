@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hello, I'm Tuong 👋
+- 📫 How to reach me: [Linkedin @Tuong Nguyen](https://www.linkedin.com/in/tuong-nguyen-gl/)
+
+- 🔭 I’m currently working for myself. 
+- 🤔 I’m looking for help with  anything related to testing.
+- - 💬 Ask me about testing issues, and I can give you some advice 
 
 <!--
 **TuongNguyenDong/TuongNguyenDong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
